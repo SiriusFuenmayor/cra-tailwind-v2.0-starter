@@ -38,5 +38,4 @@ function ItemDescription(props) {
   );
 }
 
-
 export default ItemDescription;
